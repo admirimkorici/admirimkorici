@@ -3,8 +3,6 @@
 
 ## 📘📗📕 I study 💻Information Technology at the Faculty of Natural Sciences at the University of Tirana. I'm a Junior Python Developer and a Front-end Developer!
 
-- 👯 I’m looking to collaborate with other content creators
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
