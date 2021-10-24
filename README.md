@@ -1,7 +1,7 @@
 ### Hi there, I'm Adi -  👋
 
 
-## 📘📗📕 I studied 💻Information Technology at the Faculty of Natural Sciences at the University of Tirana. I'm a Junior Python Developer and a Front-end Developer!
+## 📘📗📕 I study 💻Information Technology at the Faculty of Natural Sciences at the University of Tirana. I'm a Junior Python Developer and a Front-end Developer!
 
 - 👯 I’m looking to collaborate with other content creators
 
