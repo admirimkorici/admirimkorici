@@ -36,13 +36,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 [youtube]: https://www.youtube.com/channel/UClIDNE0rECbFfRlBdngIxNg
 [instagram]: https://www.instagram.com/adii_korici__/
 [linkedin]: https://www.linkedin.com/in/admirim-kori%C3%A7i-439115172/
