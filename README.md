@@ -1,4 +1,4 @@
-### Hi there, I'm Adi -  👋
+## Hi there, I'm Adi -  👋
 
 
 ## 📘📗📕 I study 💻Information Technology at the Faculty of Natural Sciences at the University of Tirana. I'm a Junior Python Developer and a Front-end Developer!
