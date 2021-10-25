@@ -5,6 +5,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][WhatsApp]
@@ -29,3 +30,4 @@
 [youtube]: https://www.youtube.com/channel/UClIDNE0rECbFfRlBdngIxNg
 [instagram]: https://www.instagram.com/adii_korici__/
 [linkedin]: https://www.linkedin.com/in/admirim-kori%C3%A7i-439115172/
+[facebook]: https://www.facebook.com/admirim.korici/
