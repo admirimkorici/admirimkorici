@@ -24,9 +24,9 @@
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br />
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=admirimkorici&show_icons=true&locale=en&layout=compact&theme=dark%22%20width=%22400%22%20height=%22150%22">
-<img src="https://github-readme-stats.vercel.app/api?username=admirimkorici&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="150">
+<img style="align: right;" src="https://github-readme-stats.vercel.app/api?username=admirimkorici&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="150">
 </div>
 <br />
 <br>
