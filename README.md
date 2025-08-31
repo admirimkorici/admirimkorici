@@ -31,7 +31,7 @@ I'm passionate about coding, open source, and building solutions that make a dif
 
 - **Email:** admirimkorici05@gmail.com
 - **LinkedIn:** [Admirim Korici](https://www.linkedin.com/in/admirim-koriçi-439115172/)
-  - **Twitter:** [@AdiKorici]([https://twitter.com/yourhandle](https://x.com/AdiKorici))
+- **Twitter:** [@AdiKorici]([https://twitter.com/yourhandle](https://x.com/AdiKorici))
 
 ---
 
